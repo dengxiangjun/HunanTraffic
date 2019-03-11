@@ -1,6 +1,6 @@
 ('D:\\Source\\ChangshaTraffic\\build\\Application\\setuptools-39.1.0-py3.7.egg',
  None,
- {'EGG-INFO', '*.pyd', '*.pyc', '*.py', '*.pyw', '*.cp37-win_amd64.pyd'},
+ {'*.cp37-win_amd64.pyd', '*.pyw', '*.pyc', '*.pyd', '*.py', 'EGG-INFO'},
  'DATA',
  [('setuptools\\cli-32.exe',
    'D:\\Source\\ChangshaTraffic\\build\\Application\\setuptools-39.1.0-py3.7.egg\\setuptools\\cli-32.exe',

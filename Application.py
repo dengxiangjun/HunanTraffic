@@ -1,7 +1,6 @@
+#coding=utf-8
 from tkinter import *
-import tkinter.messagebox
 from TrafficCrawer import TrafficCrawer
-import time
 import threading
 
 #

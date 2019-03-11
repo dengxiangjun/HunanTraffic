@@ -1,0 +1,9 @@
+*.html
+*.pyc
+*.yaml
+*.log
+.idea/
+build/*
+venv/*
+dist/*
+
