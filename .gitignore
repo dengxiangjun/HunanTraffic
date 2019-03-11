@@ -3,7 +3,9 @@
 *.yaml
 *.log
 .idea/
+build
 build/*
 venv/*
+dist
 dist/*
 
